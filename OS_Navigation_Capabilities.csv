@@ -1,4 +1,4 @@
-term,definition
+Term,Definition
 File Explorer Navigation,"Using a graphical interface to browse files and folders, such as File Explorer in Windows or Finder in macOS."
 Command Line Interface,Interacting with the operating system using text-based commands in a terminal or command prompt.
 Directory Navigation,"Using commands like `cd`, `ls` (Linux/macOS), or `dir` (Windows) to move through file system directories."
