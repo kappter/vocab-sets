@@ -1,4 +1,4 @@
-term,definition
+Term,Definition
 Variable Declaration,int x = 5;
 Variable Assignment,x = 10;
 String Declaration,String name = "Alice";
