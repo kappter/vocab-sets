@@ -1,4 +1,4 @@
-term,definition
+Term,Definition
 Variable,"A named storage location in memory that holds a value, which can be changed during program execution."
 Data Type,"A classification of data (e.g., int, double, boolean, String) that determines the values it can hold and operations it supports."
 Primitive Type,"Basic data types in Java (e.g., int, double, char, boolean) that are not objects and store values directly."
